@@ -1,0 +1,22 @@
+
+<html>
+<head>
+<title>CSS EXAMPLES</title>
+<style>
+body
+{ background-color: red;  }
+h1
+{ color:orange; text-align:center;font-size:100px }
+p
+{ font-family:"Times new roman";
+  font-size:20px;
+  margin-left:auto;
+}
+</style>
+</head>
+<body>
+<h1>CSS Examples</h1>
+<p> This is a pa paragraph.</p>
+<p> This is orignal paragraph.</p>
+</body>
+</html>
